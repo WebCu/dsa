@@ -1,22 +1,24 @@
 {
   "name": "@webcu/dsa",
-  "version": "0.1.0",
-  "description": "Data Structures and Algorithms playground",
+  "version": "0.1.2",
+  "description": "Data Structures and Algorithms playground in JS",
+  "main": "index.js",
   "scripts": {
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WebCu/dsa.git"
+    "url": "git+https://github.com/WebCu/dsa-js.git"
   },
   "keywords": [
     "Data Structures",
-    "Algorithms"
+    "Algorithms",
+    "JavaScript"
   ],
   "author": "Webcu webcu@inventivery.mozmail.com https://webcu.dev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/WebCu/dsa/issues"
+    "url": "https://github.com/WebCu/dsa-js/issues"
   },
-  "homepage": "https://github.com/WebCu/dsa#readme"
+  "homepage": "https://github.com/WebCu/dsa-js#readme"
 }
