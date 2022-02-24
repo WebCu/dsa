@@ -1,0 +1,22 @@
+{
+  "name": "@webcu/dsa",
+  "version": "0.1.0",
+  "description": "Data Structures and Algorithms playground",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebCu/dsa.git"
+  },
+  "keywords": [
+    "Data Structures",
+    "Algorithms"
+  ],
+  "author": "Webcu webcu@inventivery.mozmail.com https://webcu.dev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WebCu/dsa/issues"
+  },
+  "homepage": "https://github.com/WebCu/dsa#readme"
+}
